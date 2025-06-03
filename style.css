@@ -6,18 +6,6 @@
     display: flex;
     gap:13%;
 }
-#tomato{
-    width: 15vw;
-    height: 33vh;
-    margin-left: 55%;
-    border-radius: 9cqb;
-}
-#apple{
-    width: 80%;
-    margin-left: 99%;
-    margin-top: -25%;
-}
-  
 .navigation {
     display: flex;
     margin-top: 60px;
