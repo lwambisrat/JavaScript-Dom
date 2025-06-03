@@ -1,0 +1,46 @@
+
+.fruit-pic{
+    display: flex;
+}
+.vege-pic{
+    display: flex;
+    gap:13%;
+}
+#tomato{
+    width: 15vw;
+    height: 33vh;
+    margin-left: 55%;
+    border-radius: 9cqb;
+}
+#apple{
+    width: 80%;
+    margin-left: 99%;
+    margin-top: -25%;
+}
+  
+.navigation {
+    display: flex;
+    margin-top: 60px;
+    align-items: center;
+    width: 98.8vw;
+    height: 9vh;
+    background-color: #A0AC8A;
+}
+nav {
+    position: sticky;
+
+    font-size: 25px;
+    z-index: 1000;
+    margin-bottom: 0em;
+    margin-left: 60%;
+}
+nav a {
+    padding: 12px 22px ;
+    text-decoration: none;
+    color: white;
+    margin: 8px 5px;
+    cursor: pointer;
+    width: 70%;
+    border-radius: 9cqb;
+    background-color: rgb(131, 114, 114);
+}
