@@ -27,25 +27,24 @@ This project(Greens Kiosk) is a responsive web page for a fictional fruits and v
 - Dynamic Styling: JavaScript manipulates element styles and content for a rich UI experience.
 
 
-  # Installation
+# Installation
   
   -git clone https://github.com/lwambisrat/JavaScript-Dom from github repository
   -Open terminal and  cd JavaScript-Dom
   -create file index.js, index.html, style.css
   -Type code . and go to vscode then write the codes
 
-  # Usage
+# Usage
   
   -Visit  https://lwambisrat.github.io/JavaScript-Dom/
   -Shop fruits and vegetables
   -Know more about the services 
 
+ # Technologies
 
-# Technologies
-
--Html
--Css
--JavaScript
+ -Html
+ -Css
+ -JavaScript
 
 
 
