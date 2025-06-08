@@ -30,20 +30,27 @@ This project(Greens Kiosk) is a responsive web page for a fictional fruits and v
 # Installation
   
   -git clone https://github.com/lwambisrat/JavaScript-Dom from github repository
+  
   -Open terminal and  cd JavaScript-Dom
+  
   -create file index.js, index.html, style.css
+  
   -Type code . and go to vscode then write the codes
 
 # Usage
   
   -Visit  https://lwambisrat.github.io/JavaScript-Dom/
+  
   -Shop fruits and vegetables
+  
   -Know more about the services 
 
  # Technologies
 
  -Html
+ 
  -Css
+ 
  -JavaScript
 
 
